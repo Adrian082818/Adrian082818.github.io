@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**What got me into programming?**"
-date:       2019-12-22 19:58:49 +0000
+date:       2019-12-22 14:58:50 -0500
 permalink:  what_got_me_into_programming
 ---
 
