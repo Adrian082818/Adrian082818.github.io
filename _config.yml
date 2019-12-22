@@ -1,11 +1,11 @@
 # Site settings
 author: Adrian Mohabir
-title: 
+title: My Reason For Programming
 header-img: img/home-bg.png
 email: mohabiradrian@gmail.com
 copyright_name: Adrian Mohabir
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I decided to enter the programming world 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Adrian082818
